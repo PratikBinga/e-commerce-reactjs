@@ -1,0 +1,36 @@
+.loginRegisterLink
+{
+    /* display: flex;  
+    float: right; */
+    position: absolute;
+    right: 30px;
+    
+}
+.headerContainer{
+    position: relative;
+    /* min-width: 1300px; */
+}
+ul,li{
+    margin: auto 20px;
+    padding: 0;
+    display: inline-block;
+}
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: white
+}
+/* .loginLink{
+    align-content: center;
+    align-items: center;
+    flex: 1;
+    margin: auto 20px;
+}
+.registerLink{
+    align-content: center;
+    align-items: center;
+    flex: 1;
+    margin: auto 20px;
+} */

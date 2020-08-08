@@ -1,0 +1,21 @@
+.registerContainer{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+font-size: calc(10px + 2vmin);
+min-height: 100vh;
+color: white;
+}
+.registerContent{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+border: 1px solid lightgray;
+padding: 50px;
+
+}
+.buttonRegister{
+padding: 50px;
+}

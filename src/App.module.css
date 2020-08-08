@@ -1,0 +1,15 @@
+body{
+  margin: 0;
+  padding: 0;
+box-sizing: border-box;
+/* background-color:  whitesmoke; */
+background-color: #ffffff;
+}
+
+.container{
+
+  display: grid;
+  align-items: center;
+  flex-direction: column;
+  flex-wrap: wrap;
+}

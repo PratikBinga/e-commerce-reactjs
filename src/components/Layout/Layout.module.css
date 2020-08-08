@@ -1,0 +1,10 @@
+.layoutContainer{
+display: flex;
+flex-direction: column;
+min-height: 60px;
+}
+
+.contentWrap{
+/* flex: 1; */
+min-height: 100vh;
+}
